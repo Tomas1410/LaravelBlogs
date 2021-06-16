@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Psycho Blogs - zarządzanie blogami
+## LaravelBlogs - zarządzanie blogami
 
-Aplikacja MVC realizująca zarządzanie blogami dodawanymi przez użytkowników
+Aplikacja MVC realizująca zarządzanie blogami dodawanymi przez użytkowników.
 
